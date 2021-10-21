@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sellerskyle
-- 👀 I’m interested in DSP, Machine Learning, and Electronics
+- 👀 I’m interested in DSP, Electronics, and Sustainability
 - 🌱 I’m currently learning Web development and audio application development
 
 
