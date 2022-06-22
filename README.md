@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sellerskyle
-- 👀 I’m interested in DSP, Electronics, and Sustainability
-- 🌱 I’m currently learning Web development and audio application development
+- 👀 I’m interested in Sustainability, Embedded Softeare, and DSP
+- 🌱 I’m currently looking for remote opportunities
 
 
 <!---
