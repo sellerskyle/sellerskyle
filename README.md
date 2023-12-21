@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sellerskyle
-- 👀 I’m interested in Sustainability, Embedded Softeare, and DSP
+- 👀 I’m interested in Sustainability, Embedded Software, and DSP
 - 🌱 I’m currently looking for remote opportunities
 
 
