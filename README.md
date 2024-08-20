@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @sellerskyle
-- 👀 I’m interested in Sustainability, Embedded Software, and DSP
-- 🌱 I’m currently looking for remote opportunities
-
+- 👀 I’m interested in Embedded Software, Web Development, and DSP
+=
 
 <!---
 sellerskyle/sellerskyle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
